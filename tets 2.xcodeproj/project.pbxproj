@@ -14,6 +14,7 @@
 		098CD809268B5A6E0048820C /* tets_2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 098CD807268B5A6E0048820C /* tets_2.xcdatamodeld */; };
 		098CD80B268B5A6F0048820C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 098CD80A268B5A6F0048820C /* Assets.xcassets */; };
 		098CD80E268B5A6F0048820C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 098CD80C268B5A6F0048820C /* LaunchScreen.storyboard */; };
+		098CD816268B67B10048820C /* newViewcontroller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 098CD815268B67B10048820C /* newViewcontroller.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		098CD80A268B5A6F0048820C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		098CD80D268B5A6F0048820C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		098CD80F268B5A6F0048820C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		098CD815268B67B10048820C /* newViewcontroller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newViewcontroller.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				098CD80C268B5A6F0048820C /* LaunchScreen.storyboard */,
 				098CD80F268B5A6F0048820C /* Info.plist */,
 				098CD807268B5A6E0048820C /* tets_2.xcdatamodeld */,
+				098CD815268B67B10048820C /* newViewcontroller.swift */,
 			);
 			path = "tets 2";
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				098CD803268B5A6E0048820C /* ViewController.swift in Sources */,
 				098CD7FF268B5A6E0048820C /* AppDelegate.swift in Sources */,
 				098CD801268B5A6E0048820C /* SceneDelegate.swift in Sources */,
+				098CD816268B67B10048820C /* newViewcontroller.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
